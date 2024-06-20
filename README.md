@@ -1,66 +1,26 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+## Dana website && app
+### Link: https://aldana.emcan-group.com
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+### Website screens
+<img width="946" alt="Screenshot 2024-06-21 003956" src="https://github.com/abdoweb123/Dana/assets/96248035/10ec8aa6-5f66-40d2-a6bf-ae39947b90f5">
+<img width="576" alt="Screenshot 2024-06-21 004725" src="https://github.com/abdoweb123/Dana/assets/96248035/d7f915e0-6cb2-441f-84e0-52b31a2507aa">
+<img width="654" alt="Screenshot 2024-06-21 004651" src="https://github.com/abdoweb123/Dana/assets/96248035/e896e57b-0585-4872-a5bc-b790cd61dcc9">
+<img width="647" alt="Screenshot 2024-06-21 004613" src="https://github.com/abdoweb123/Dana/assets/96248035/0059f804-54ef-418b-9e96-2dd9fa1bcd84">
+<img width="655" alt="Screenshot 2024-06-21 004444" src="https://github.com/abdoweb123/Dana/assets/96248035/c4bc1a62-f0bd-49be-81b4-bc8786d03772">
+<img width="664" alt="Screenshot 2024-06-21 004339" src="https://github.com/abdoweb123/Dana/assets/96248035/fe0d9646-273a-4e90-bc59-d995b2818385">
+<img width="948" alt="Screenshot 2024-06-21 004110" src="https://github.com/abdoweb123/Dana/assets/96248035/b5ce3103-ad28-4425-9b4f-03da5a3e4f81">
+<img width="610" alt="Screenshot 2024-06-21 004916" src="https://github.com/abdoweb123/Dana/assets/96248035/5022917d-f5d9-48a9-a1e5-571edba1cd7d">
+<img width="621" alt="Screenshot 2024-06-21 004900" src="https://github.com/abdoweb123/Dana/assets/96248035/fb13991d-769b-4044-81b4-4dee70ce489a">
+<img width="581" alt="Screenshot 2024-06-21 004842" src="https://github.com/abdoweb123/Dana/assets/96248035/efe8cd86-8d0b-49cb-bae7-4307113b57b4">
+<img width="634" alt="Screenshot 2024-06-21 004823" src="https://github.com/abdoweb123/Dana/assets/96248035/9b184064-0a39-4a1d-a372-d66a4aa4ac82">
+<img width="647" alt="Screenshot 2024-06-21 004743" src="https://github.com/abdoweb123/Dana/assets/96248035/61525a6e-c470-48a0-833a-75730cc44831">
 
-## About Laravel
+### Dashboard screens
+<img width="946" alt="Screenshot 2024-06-21 004952" src="https://github.com/abdoweb123/Dana/assets/96248035/6c10a753-3742-4eae-a759-1fb8c6686541">
+<img width="942" alt="Screenshot 2024-06-21 005015" src="https://github.com/abdoweb123/Dana/assets/96248035/247340f2-de80-42cb-a900-119348c5c403">
+<img width="941" alt="Screenshot 2024-06-21 005109" src="https://github.com/abdoweb123/Dana/assets/96248035/1604b22e-b0ba-4e8e-b699-df13f647b82b">
+<img width="940" alt="Screenshot 2024-06-21 005044" src="https://github.com/abdoweb123/Dana/assets/96248035/3095de90-887e-405e-aec5-13725f9be3d1">
+<img width="947" alt="Screenshot 2024-06-21 005132" src="https://github.com/abdoweb123/Dana/assets/96248035/804c41d0-e768-4cbf-bead-84976b32c30b">
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
